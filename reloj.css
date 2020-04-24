@@ -1,0 +1,11 @@
+ #reloj {
+       display: flex;
+       justify-items: center;
+       border: 1px solid greenyellow;
+       border-radius: 50%;
+       margin-left: 400px;
+       background-color: rgb(3, 3, 26);
+       width: 13%;
+       height: 109px;
+            }
+            
